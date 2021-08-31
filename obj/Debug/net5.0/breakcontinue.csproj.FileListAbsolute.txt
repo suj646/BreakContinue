@@ -1,0 +1,16 @@
+F:\DOTNET\breakcontinue\breakcontinue\bin\Debug\net5.0\breakcontinue.exe
+F:\DOTNET\breakcontinue\breakcontinue\bin\Debug\net5.0\breakcontinue.deps.json
+F:\DOTNET\breakcontinue\breakcontinue\bin\Debug\net5.0\breakcontinue.runtimeconfig.json
+F:\DOTNET\breakcontinue\breakcontinue\bin\Debug\net5.0\breakcontinue.runtimeconfig.dev.json
+F:\DOTNET\breakcontinue\breakcontinue\bin\Debug\net5.0\breakcontinue.dll
+F:\DOTNET\breakcontinue\breakcontinue\bin\Debug\net5.0\ref\breakcontinue.dll
+F:\DOTNET\breakcontinue\breakcontinue\bin\Debug\net5.0\breakcontinue.pdb
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\breakcontinue.csproj.AssemblyReference.cache
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\breakcontinue.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\breakcontinue.AssemblyInfoInputs.cache
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\breakcontinue.AssemblyInfo.cs
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\breakcontinue.csproj.CoreCompileInputs.cache
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\breakcontinue.dll
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\ref\breakcontinue.dll
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\breakcontinue.pdb
+F:\DOTNET\breakcontinue\breakcontinue\obj\Debug\net5.0\breakcontinue.genruntimeconfig.cache
